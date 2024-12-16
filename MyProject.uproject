@@ -13,10 +13,13 @@
 		},
 		{
 			"Name": "WMFCodecs",
-			"Enabled": true,
+			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
